@@ -1,0 +1,15 @@
+{
+    "Name": "Kwok et al., 2023, Human Brain Mapping",
+    "Authors": [
+        "Fu Yu Kwok",
+        "Eric D. Wilkey",
+	"Lien Peters",
+	"Ellyn Khiu",
+	"Rebecca Bull",
+	"Kerry Lee",
+        "Daniel Ansari"
+    ],
+    "BIDSVersion": "1.0.1",
+    "Lincense": "CCO",
+    "HowToAcknowledge": "Please cite Kwok et al., 2023, Human Brain Mapping"
+}
